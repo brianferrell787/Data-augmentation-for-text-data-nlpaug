@@ -8,7 +8,7 @@ My suggestion would be to read the documentation and figure out how to best impl
 (https://nlpaug.readthedocs.io/_/downloads/en/latest/pdf/)
 
 # **How to Download**:
-I have code at the end of it that will download the file as a excel file. You can very easily switch that to a JSON file if needed
+I have code at the end of it that will download the file as a excel file. You can very easily switch that to a JSON file if needed.
 Looks like this:
 ```python
 try:
