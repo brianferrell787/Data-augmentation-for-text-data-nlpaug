@@ -9,6 +9,16 @@ My suggestion would be to read the documentation and figure out how to best impl
 
 # **How to Download**:
 I have code at the end of it that will download the file as a excel file. You can very easily switch that to a JSON file if needed
+Looks like this:
+```python
+try:
+  from google.colab import files
+except ImportError:
+   pass
+else:
+  training_df.to_excel('training_df.xlsx') 
+  files.download('training_df.xlsx')
+```
 
 # **Data Aug Example**:
 ![Alt text](Dataaugexample.jpg?raw=true "Title")
