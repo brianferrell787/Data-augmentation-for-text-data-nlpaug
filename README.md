@@ -1,4 +1,4 @@
-# Data-augmentation-for-text-data-nlpaug
+# Data-augmentation-for-text-data-nlpaug [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 To help fix a small dataset problem, I implemented data augmentation techniques to synthetically increase the amount of data we have. I then trained the deep learning network on the augmented data and not the original set(that became the test set). This helped with the overall performance of the algorithim, and it was honestly really fun to do. 
 
 # Suggestions: 
