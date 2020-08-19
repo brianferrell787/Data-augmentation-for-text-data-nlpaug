@@ -1,5 +1,5 @@
 # Data-augmentation-for-text-data-nlpaug [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
-To help fix a small dataset problem, I implemented data augmentation techniques to synthetically increase the amount of data we have. I then trained the deep learning network on the augmented data and not the original set(that became the test set). This helped with the overall performance of the algorithim, and it was honestly really fun to do. 
+To help fix a small dataset problem, I implemented data augmentation techniques to synthetically increase the amount of data we have. I then trained the deep learning network on the augmented data and not the original set(that became the test set). This helped with the overall performance of the algorithm, and it was honestly really fun to do. 
 
 # Suggestions: 
 My suggestion would be to read the documentation and figure out how to best implement these skills on your specific problem. I use Google Colab because of the free GPU, and you can make things run a little bit faster. In the code implementation you will see which model actually ran faster than others  
